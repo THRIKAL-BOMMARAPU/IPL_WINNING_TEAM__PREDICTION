@@ -104,18 +104,3 @@ The app will display the **winning probability** for each team based on the inpu
 * Expand predictions to other T20 leagues (e.g., BBL, PSL)
 
 ---
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙌 Acknowledgements
-
-* Dataset from [Kaggle](https://www.kaggle.com/)
-* Libraries: Streamlit, Scikit-learn, Pandas
-
----
-
-```
