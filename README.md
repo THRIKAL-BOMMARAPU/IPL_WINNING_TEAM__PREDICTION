@@ -1,4 +1,3 @@
-
 ## 🏏 IPL WINNING TEAM PREDICTION
 
 ## 📌 Project Overview
